@@ -7,7 +7,7 @@
 **Know your real cost per mile before you say yes to a load.**
 A freight-decision app for owner-operators, built in Dallas–Fort Worth and in iOS beta.
 
-[Website](https://truelane-three.vercel.app) · [Watch it work](#watch-it-work) · [The dispatcher desk](https://github.com/christopher-mcdaniel/TrueLane-Dispatch-Desk) · [Contact](#contact)
+[Website](https://truelane-three.vercel.app) · [Book a call](https://calendly.com/cm145571/new-meeting) · [Watch it work](#watch-it-work) · [The dispatcher desk](https://github.com/christopher-mcdaniel/TrueLane-Dispatch-Desk) · [Contact](#contact)
 
 </div>
 
